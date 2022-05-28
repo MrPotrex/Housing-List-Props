@@ -78,10 +78,25 @@
   {'Silla 51', 'prop_chair_10'}, -- Colision
   {'Silla 52', 'prop_old_wood_chair'}, -- Colision
   {'Silla 53', 'prop_chair_03'}, -- Colision
-  {'Silla 54', 'v_ret_gc_chair03', 50}, -- Colision
-  {'Silla 55', 'prop_off_chair_04b', 50}, -- Colision
-  {'Silla 56', 'prop_waiting_seat_01', 50}, -- Colision
-  {'Silla 57', 'prop_skid_chair_01', 50}, -- Colision
-  {'Silla 58', 'prop_skid_chair_02', 50}, -- Colision
-  {'Silla 59', 'prop_rub_couch03', 50}, -- Colision
+  {'Silla 54', 'v_ret_gc_chair03'}, -- Colision
+  {'Silla 55', 'prop_off_chair_04b'}, -- Colision
+  {'Silla 56', 'prop_waiting_seat_01'}, -- Colision
+  {'Silla 57', 'prop_skid_chair_01'}, -- Colision
+  {'Silla 58', 'prop_skid_chair_02'}, -- Colision
+  {'Silla 59', 'prop_rub_couch03'}, -- Colision
+
+  {'Silla 60', 'hei_prop_yah_seat_01'}, -- Colision
+  {'Silla 61', 'hei_prop_yah_seat_02'}, -- Colision
+  {'Silla 62', 'p_armchair_01_s'}, -- Colision
+  {'Silla 63', 'p_ilev_p_easychair_s'}, -- Colision
+  {'Silla 64 (ATRAVIESAS)', 'p_soloffchair_s'}, -- NOT Colision
+  {'Silla 65', 'prop_wheelchair_01_s'}, -- Colision
+  {'Silla 66', 'v_ilev_fh_dineeamesa'}, -- Colision
+  {'Silla 67', 'v_ilev_fh_kitchenstool'}, -- Colision
+  {'Silla 68', 'v_ilev_leath_chr'}, -- Colision
+  {'Silla 69', 'v_ilev_hd_chair'}, -- Colision
+
+  {'Silla 70', 'v_ilev_m_dinechair'}, -- Colision
+  {'Silla 71', 'v_ilev_p_easychair'}, -- Colision
+  {'Silla 72', 'v_ilev_tort_stool'}, -- Colision
 
