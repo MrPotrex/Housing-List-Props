@@ -56,5 +56,7 @@
   {'Silla 34', 'prop_off_chair_05'}, -- Colision
   {'Silla 35', 'v_club_officechair'}, -- Colision
   {'Silla 36', 'v_corp_offchair'}, -- Colision
+  {'Silla 37', 'prop_bar_stool_01'}, -- Colision
+  {'Silla 38', 'p_yacht_chair_01_s'}, -- Colision
 
 
