@@ -17,6 +17,7 @@
   {'lights', 'Luces'},
   {'kitchen', 'Cocina'},
   {'accessory', 'Accesorios'},
+  {'arcade', 'Arcade'},
   {'storage', 'Almacen'},
 
 -- SILLAS
